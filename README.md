@@ -11,5 +11,5 @@ issn = {1875-9521},
 doi = {https://doi.org/10.1016/j.entcom.2022.100536},
 url = {https://www.sciencedirect.com/science/article/pii/S1875952122000593},
 author = {Fernando Terroso-Saenz and Jesus Soto and Andres Muñoz},
-keywords = {Music, Population behaviour, Multivariate time series, Trend prediction, Mood analysis},
+keywords = {Music, Population behaviour, Multivariate time series, Trend prediction, Mood analysis}
 }
