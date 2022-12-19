@@ -1,6 +1,6 @@
 # Framework to analyze mood-related features of Spotify Songs
 Source code of the paper *Evolution of Global Music Trends: An Exploratory and Predictive Approach based on Spotify Data* currently published in the *Entertainment Computing* journal. To cite this work please use the following reference,
-```python
+```elixir
 @article{TERROSOSAENZ2023100536,
 title = {Evolution of global music trends: An exploratory and predictive approach based on Spotify data},
 journal = {Entertainment Computing},
